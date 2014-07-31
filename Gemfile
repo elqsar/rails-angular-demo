@@ -30,6 +30,7 @@ gem 'spring',        group: :development
 
 group :development, :test do
   gem 'rails-assets-angular-mocks'
+  gem 'jasmine'
 end
 
 # Use ActiveModel has_secure_password

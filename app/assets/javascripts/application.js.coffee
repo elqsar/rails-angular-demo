@@ -4,4 +4,4 @@
 #= require_self
 #= require app
 
-window.App = angular.module 'angular-demo', []
+angular.module 'angular-demo', []
