@@ -1,2 +1,7 @@
-== README
+Simple template for Rails and Angular.js application:
+* Angular.js: https://rails-assets.org
+* Active Model Serializers: https://github.com/rails-api/active_model_serializers
+* Jasmine for Unit testing: https://github.com/pivotal/jasmine-gem
 
+To run tests:
+- <code>rake jasmine</code> and open browser <code>localhost:8888</code>
